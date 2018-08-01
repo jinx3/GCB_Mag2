@@ -5,9 +5,10 @@
                 "[gs://ci_mag2_test/]"
             ],
             "paths": [
-            [
-                "[mag2_test]"
-            ]
+				[
+					"[mag2_test]"
+				]
+			]
         }
     }
 }
