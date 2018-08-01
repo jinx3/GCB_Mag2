@@ -1,0 +1,5 @@
+steps:
+artifacts:
+  objects:
+    location: 'gs://ci_mag2_test/'
+    path: ['mag2_test']
