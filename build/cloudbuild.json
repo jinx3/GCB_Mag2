@@ -1,0 +1,13 @@
+{
+    "artifacts": {
+        "objects": {
+            "location": [
+                "[gs://ci_mag2_test/]"
+            ],
+            "paths": [
+            [
+                "[mag2_test]"
+            ]
+        }
+    }
+}
