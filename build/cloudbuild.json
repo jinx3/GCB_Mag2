@@ -1,5 +1,13 @@
 {
-    "artifacts": {
+    "steps": [
+		{
+		"name": "gcr.io/cloud-builders/npm",
+		"args": [
+				"install"
+			]
+		}
+	],
+	"artifacts": {
         "objects": {
             "location": "gs://ci_mag2_test/",
             "paths": [
